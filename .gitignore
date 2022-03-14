@@ -1,1 +1,5 @@
 raman/**
+
+*.pkl
+
+*.pickle
